@@ -114,9 +114,4 @@ if submit_btn:
 
     st.success(f"🌟 **Predicted Cover Type:** `{prediction_label[0]}`")
 
-    st.balloons()
 
-# ==========================
-# Footer
-# ==========================
-st.markdown('<p class="footer">Developed with ❤️ using Streamlit</p>', unsafe_allow_html=True)
